@@ -11,7 +11,7 @@
     <body>
         <div class="container">
             <ol class="breadcrumb">
-                <li><a href="<c:url value="/home.htm" />">Listado de productos</a></li>
+                <li><a href="<c:url value="/home.htm" />">Lista de libros</a></li>
                 <li class="active">Editar libro</li>
             </ol>
             <div class="panel panel-primary">

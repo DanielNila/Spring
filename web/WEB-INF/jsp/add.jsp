@@ -11,7 +11,7 @@
     <body>
         <div class="container">
             <ol class="breadcrumb">
-                <li><a href="<c:url value="/home.htm" />">Spring</a></li>
+                <li><a href="<c:url value="/home.htm" />">Lista de libros</a></li>
                 <li class="active">Agregar</li>
             </ol>
             <div class="panel panel-primary">
